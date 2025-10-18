@@ -1,0 +1,1 @@
+# My Portfolio\n\nA simple portfolio built with Next.js and Tailwind CSS.\n\n## Running the App\n\n`npm install`\n`npm run start`\n\nOpen [http://localhost:3000](http://localhost:3000) in your browser.
